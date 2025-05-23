@@ -1,0 +1,8 @@
+{
+  "name": "Scale+ Rewards",
+  "description": "A web application for managing customer loyalty points and redeeming rewards. Users can earn points through various activities and spend them on available rewards.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
